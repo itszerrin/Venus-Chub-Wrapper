@@ -36,7 +36,7 @@ Install the dependencies by opening a console in the **Venus-Chub-Wrapper** dire
 
 ## Using the script
 
-For context, an **example script** is **NOT** provided. This project only ships individual code snippets to **register** an account, **fetch your Mars Token**, **log in**, and so on. You'll need to make your own **main.py** but this script will guide you in the process.
+For context, an **example script** is provided. This project only ships individual code snippets to **register** an account, **fetch your Mars Token**, **log in**, and so on. You'll need to make your own **main.py** but this script will guide you in the process. (Update: The main.py was accidentally shipped along. It's just example 2 though. It will be deleted but feel free to check commit logs if you're that clueless)
 
 To start off, create a **main.py** in the root of the project.
 
