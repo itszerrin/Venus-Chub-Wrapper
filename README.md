@@ -18,7 +18,7 @@ A Wrapper for https://venus.chub.ai to create accounts and access premium LLMs u
 
 1. **Purpose**
 
-The purpose of this script is to demonstrate the capabilities of reverse-engineering with Python. This project is purely for educational purposes and falls under the [GPL-3 License](LICENSE.MD). For more information, you may always contact me under zerrin@zerrin.online
+The purpose of this script is to demonstrate the capabilities of reverse-engineering with Python. This project is purely for educational purposes and falls under the [GPL-3 License](LICENSE). For more information, you may always contact me under zerrin@zerrin.online
 
 This README is beginner-friendly and step-by-step. It takes the process slowly.
 
