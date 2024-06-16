@@ -263,7 +263,7 @@ for chunk in chat(
         }
     ],
     model="mixtral", # model choices: mixtral, mistral, mobile, asha, mythomax
-    max_tokens=100, # goes from 1 to 2048.
+    max_tokens=100, # goes from 0 to 2048 -> 0 for unlimited. 
 ):
 
     print(parse_for_content(chunk), end='', flush=True)
